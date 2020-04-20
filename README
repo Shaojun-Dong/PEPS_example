@@ -1,0 +1,45 @@
+This repository contains the example codes about how to use the TNSPackage
+
+
+Heishenberg_PBC:
+         An example code of PEPS on Heisenberg model. Simple update and then contract the whole 
+      tensor network for the energy. This is the code that showed in 
+                        Computer Physics Communications 228, 163 (2018)
+
+Heisenberg:
+         An example code of PEPS on Heisenberg model. OBC system. Simple update and then 
+      contract the whole tensor network through double layer for the energy.
+
+Heisenberg_Parity:
+         An example code of PEPS on Heisenberg model with the symmetry of Parity. OBC system.
+      Simple update and then contract the whole tensor network through double layer for 
+      the energy.
+
+Heisenberg_U1:
+         An example code of PEPS on Heisenberg model with the symmetry of U(1). OBC system.
+      Simple update and then contract the whole tensor network through double layer for 
+      the energy.
+
+electron_Parity:
+         An example code of PEPS on free electron model with the symmetry of Parity. OBC 
+      system. Simple update and then contract the whole tensor network through double layer
+      for the energy.
+
+electron_U1:
+         An example code of PEPS on free electron model with the symmetry of U(1). OBC 
+      system. Simple update and then contract the whole tensor network through double layer
+      for the energy.
+
+Heisenberg_eig:
+         An example code of eigenvalue problem on Heisenberg, OBC system. One should link the
+      code with the arparck to run the program.
+
+electron_Parity_eig:
+         An example code of eigenvalue problem on free electron with Parity syymetry, OBC 
+      system. One should link the code with the arparck to run the program.
+
+electron_U1_eig:
+         An example code of eigenvalue problem on free electron with U(1) syymetry, OBC 
+      system. One should link the code with the arparck to run the program.
+
+
